@@ -12,8 +12,8 @@ namespace BotWhatsApp.Services.QnAMarkerApi
         {
             try
             {
-                var supcriptionKey = "b0db7a64079a4f4d81e9ad8c84fe1fe0";
-                var endPoint = "https://botwhatsapplanguage.cognitiveservices.azure.com";
+                var supcriptionKey = ""; // colocar su suscripción
+                var endPoint = ""; // colocar el endpoint generado
                 var projectName = "botwhatsapp";
                 var deploymentName = "production";
 
